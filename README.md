@@ -14,3 +14,11 @@ Aplicar un flujo de trabajo colaborativo en GitHub, donde cada integrante del eq
 ## Flujo de trabajo
 
 Cada integrante realizara sus modificaciones desde su propia rama, registrara los cambios mediante commits y creara un Pull Request hacia la rama main para que sus aportaciones sean revisadas antes de integrarse al proyecto.
+# Repositorio-Principal-Equipo
+Repositorio principal para el trabajo colaborativo del equipo mediante ramas y Pull Requests.
+
+## Herramientas utilizadas
+- Git
+- GitHub
+- Visual Studio Code
+- Git Bash
