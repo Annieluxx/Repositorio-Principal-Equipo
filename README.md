@@ -22,5 +22,9 @@ Repositorio principal para el trabajo colaborativo del equipo mediante ramas y P
 - GitHub
 - Visual Studio Code
 - Git Bash
+
+## Aportación de Ximena
+
+Se agregó una sección de documentación sobre el trabajo colaborativo realizado mediante Git y GitHub.
 ## Resultado del trabajo colaborativo
 Los cambios realizados por cada integrante fueron revisados mediante Pull Requests antes de integrarse a la rama principal.
